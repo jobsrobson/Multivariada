@@ -1,0 +1,101 @@
+tracado_via,contagem
+Reta,9744
+Reta;Declive,1123
+Declive;Reta,910
+Curva,835
+Aclive;Reta,773
+Reta;Aclive,742
+Declive;Ponte,464
+Declive,390
+Curva;Declive,314
+Retorno Regulamentado;Reta,285
+Curva;Aclive,276
+Reta;Retorno Regulamentado,173
+Reta;Interseção de Vias,147
+Rotatória,141
+Declive;Retorno Regulamentado;Reta,138
+Interseção de Vias;Reta,130
+Retorno Regulamentado,128
+Aclive,120
+Declive;Curva,119
+Interseção de Vias,113
+Em Obras;Declive;Curva,100
+Reta;Viaduto,90
+Aclive;Curva,85
+Reta;Em Obras,68
+Reta;Ponte;Declive,60
+Interseção de Vias;Curva;Declive;Viaduto,50
+Interseção de Vias;Reta;Retorno Regulamentado,49
+Declive;Viaduto,48
+Reta;Interseção de Vias;Em Obras;Declive,48
+Aclive;Ponte;Reta,45
+Viaduto,42
+Interseção de Vias;Rotatória,42
+Reta;Aclive;Interseção de Vias,40
+Reta;Retorno Regulamentado;Aclive,39
+Reta;Ponte,39
+Declive;Retorno Regulamentado,36
+Declive;Reta;Retorno Regulamentado,35
+Reta;Declive;Em Obras,32
+Reta;Desvio Temporário,32
+Em Obras;Reta,30
+Interseção de Vias;Curva,30
+Rotatória;Interseção de Vias,30
+Reta;Rotatória;Em Obras,30
+Retorno Regulamentado;Reta;Interseção de Vias,26
+Reta;Declive;Retorno Regulamentado,26
+Retorno Regulamentado;Reta;Interseção de Vias;Declive,24
+Rotatória;Reta,21
+Reta;Desvio Temporário;Declive,20
+Interseção de Vias;Retorno Regulamentado;Reta,20
+Aclive;Retorno Regulamentado,18
+Em Obras,17
+Retorno Regulamentado;Interseção de Vias,16
+Retorno Regulamentado;Reta;Em Obras,16
+Curva;Interseção de Vias,16
+Interseção de Vias;Reta;Aclive,15
+Ponte,15
+Ponte;Reta,12
+Reta;Declive;Ponte,12
+Declive;Ponte;Reta,11
+Retorno Regulamentado;Reta;Aclive,10
+Interseção de Vias;Retorno Regulamentado,10
+Desvio Temporário;Reta,10
+Reta;Rotatória,9
+Retorno Regulamentado;Curva,9
+Aclive;Interseção de Vias;Reta,8
+Interseção de Vias;Ponte;Reta,8
+Retorno Regulamentado;Reta;Declive,8
+Curva;Declive;Retorno Regulamentado,8
+Em Obras;Declive,6
+Reta;Interseção de Vias;Retorno Regulamentado,6
+Reta;Retorno Regulamentado;Declive,6
+Interseção de Vias;Viaduto,6
+Interseção de Vias;Aclive;Reta,6
+Curva;Em Obras,6
+Rotatória;Retorno Regulamentado;Reta;Interseção de Vias,6
+Reta;Viaduto;Declive,6
+Retorno Regulamentado;Curva;Aclive,6
+Reta;Em Obras;Aclive,5
+Ponte;Reta;Aclive,4
+Viaduto;Declive;Reta,4
+Reta;Aclive;Ponte,4
+Retorno Regulamentado;Aclive,4
+Aclive;Retorno Regulamentado;Reta,4
+Desvio Temporário,4
+Viaduto;Reta,4
+Em Obras;Aclive;Reta,3
+Viaduto;Aclive,3
+Interseção de Vias;Reta;Declive,3
+Interseção de Vias;Retorno Regulamentado;Curva,3
+Em Obras;Interseção de Vias;Desvio Temporário,3
+Ponte;Declive,3
+Reta;Interseção de Vias;Rotatória,3
+Interseção de Vias;Rotatória;Curva,2
+Reta;Declive;Interseção de Vias,2
+Aclive;Curva;Em Obras,2
+Aclive;Reta;Retorno Regulamentado,2
+Interseção de Vias;Declive,2
+Declive;Reta;Em Obras,2
+Rotatória;Declive,1
+Declive;Desvio Temporário;Em Obras,1

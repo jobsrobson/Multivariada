@@ -1,0 +1,17 @@
+tipo_acidente,contagem
+Colisão traseira,3300
+Saída de leito carroçável,2897
+Queda de ocupante de veículo,2572
+Tombamento,1849
+Colisão lateral mesmo sentido,1733
+Colisão com objeto,1225
+Capotamento,1167
+Colisão transversal,1106
+Atropelamento de Pedestre,866
+Colisão frontal,685
+Engavetamento,427
+Colisão lateral sentido oposto,385
+Atropelamento de Animal,150
+Incêndio,130
+Derramamento de carga,102
+Eventos atípicos,58
